@@ -1,4 +1,3 @@
-const generateFlashCards = require("../services/generate.service")
 const Generate = require("../services/generate.service");
 const GenerateInst = new Generate;
 
